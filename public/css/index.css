@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  /*background-color: rgba(0, 0, 0, 0.1);*/
 }
 
 /* Universal styles */
@@ -29,6 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 3em;
+  font-family: 'Varela Round', sans-serif;
 }
 
 }
@@ -36,8 +36,15 @@ h1 {
 p {
   font-size: 1em;
   line-height: 1.5em;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .body-text {
-  padding: 25px;
+  padding-right: 50px;
+  padding-left: 50px;
+
+}
+
+.card {
+  padding-left: 50px
 }
