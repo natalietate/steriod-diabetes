@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
   margin: 0;
+<<<<<<< HEAD
+=======
+  /*background-color: rgba(0, 0, 0, 0.1);*/
+>>>>>>> eb911fd6f5a3746d0f7737dd6e25ff8990ca1c62
 }
 
 /* Universal styles */
@@ -28,7 +32,10 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 3em;
+<<<<<<< HEAD
   font-family: 'Varela Round', sans-serif;
+=======
+>>>>>>> eb911fd6f5a3746d0f7737dd6e25ff8990ca1c62
 }
 
 }
@@ -36,6 +43,7 @@ h1 {
 p {
   font-size: 1em;
   line-height: 1.5em;
+<<<<<<< HEAD
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -47,4 +55,10 @@ p {
 
 .card {
   padding-left: 50px
+=======
+}
+
+.body-text {
+  padding: 25px;
+>>>>>>> eb911fd6f5a3746d0f7737dd6e25ff8990ca1c62
 }
