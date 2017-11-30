@@ -39,17 +39,7 @@ p {
   font-family: 'Open Sans', sans-serif;
 }
 
-.body-text {
-  padding-right: 50px;
-  padding-left: 50px;
-
-}
-
 .card-text, .card-title {
   padding-right: 15px;
   padding-left: 15px;
-}
-
-.main-image {
-  height: 300px
 }
